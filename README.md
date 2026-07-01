@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Тайпинг-эффект с фокусом на ключевые компетенции -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer;System+Analyst;React+%C2%B7+Python+%C2%B7+TypeScript;Building+clean,+scalable+code." alt="Typing SVG" />
 
 # Привет, я Анна Чигирева 👋
@@ -10,7 +9,6 @@
 
 ---
 
-<!-- Блок быстрых контактов в виде стильных кнопок -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-v0--chigir.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-chigir.vercel.app)
 [![Telegram](https://img.shields.io/badge/Telegram-@chigir-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/porfoliochigir)
 [![Email](https://img.shields.io/badge/Email-anyachigireva88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anyachigireva88@gmail.com)
@@ -39,6 +37,15 @@
 
 ### Data & Infrastructure
 🗄️ PostgreSQL · MongoDB · Redis · Docker & Docker Compose · Ansible · Zabbix · Git · Linux (Ubuntu/Debian)
+
+---
+
+## 🎨 Дизайн & UI/UX
+
+Я не просто пишу код, но и проектирую весь пользовательский опыт сама.:
+* 📐 **Макеты & Лендинги:** Проектирую адаптивные интерфейсы, интерактивные прототипы и промо-страницы высокой точности (Pixel Perfect).
+* 💠 **Векторная графика:** Разрабатываю айдентику, уникальные иконки и минималистичные логотипы для проектов.
+* 🛠 **Инструменты:** Владею **Figma** (Auto Layouts, Компоненты/Варианты, Стили).
 
 ---
 
