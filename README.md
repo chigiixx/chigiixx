@@ -44,7 +44,6 @@
 - 🚧 **В разработке:** платформа недвижимости — 3D-превью, ролевой доступ (React + FastAPI + Three.js)
 - 🎮 **Пилю игру:** кликер в Яндекс Играх — на модерации
 - 💼 **В поиске:** открыта к фрилансу и предложениям о работе
-- ✨ **[допиши сама]** — забавный факт о себе, хобби или то, что делает профиль твоим
 
 ```
 [■■■■■■■■■■] В ПРОДАКШЕНЕ   itrstroy.ru
@@ -97,12 +96,6 @@
 <td><code>Python</code> <code>FastAPI</code> <code>Docker</code></td>
 <td>Backend. Микросервис согласования документов, RBAC, трекинг статусов</td>
 </tr>
-<tr>
-<td>🏡 <b>property-platform</b> <sub>(в разработке)</sub></td>
-<td><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Three.js</code></td>
-<td>Fullstack. Платформа недвижимости с 3D-просмотром зданий</td>
-</tr>
-</table>
 
 ---
 
