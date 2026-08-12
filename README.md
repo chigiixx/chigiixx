@@ -21,10 +21,6 @@
   <h3>👩‍💻 Анна Чигирева | 💻 Full-Stack Developer | 🇷🇺 Нижний Новгород</h3>
 </div>
 
-<h5 align="center">
-  <i>⚡️ Не доверяю проектам без README ⚡️</i>
-</h5>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer;System+Analyst;React+%C2%B7+Python+%C2%B7+TypeScript;Building+clean%2C+scalable+code." alt="Typing SVG" />
 
 </div>
