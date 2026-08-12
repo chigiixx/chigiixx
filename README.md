@@ -93,6 +93,6 @@
 <h2 align="center">🤝 На связи</h2>
 
 <p align="center">🎀 Открыта к предложениям, вопросам и фрилансу — пишите смело!</p>
-<p align="center">💙 Понравился профиль? Загляните в <a href="https://v0-chigir.vercel.app">портфолио</a> и <a href="https://itrstroy.ru">itrstroy.ru</a></p>
+<p align="center">💙 Понравился профиль? Загляните в <a href="https://v0-chigir.vercel.app">портфолио</a></p>
 <p align="center">Сделано с ❤️ </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100" width="100%" alt="footer wave" />
