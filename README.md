@@ -1,15 +1,14 @@
 <div align="center">
   <h1>Привет, я <a href="https://v0-chigir.vercel.app">Аня</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
-
-                       ```
+```
                                                ██████╗██╗  ██╗██╗ ██████╗ ██╗██████╗ 
                                               ██╔════╝██║  ██║██║██╔════╝ ██║██╔══██╗
                                               ██║     ███████║██║██║  ███╗██║██████╔╝
                                               ██║     ██╔══██║██║██║   ██║██║██╔══██╗
                                               ╚██████╗██║  ██║██║╚██████╔╝██║██║  ██║
                                                ╚═════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
-                       ```
+```
 
 <p align="center">
   <a href="https://v0-chigir.vercel.app"><img height="30" src="https://img.icons8.com/fluency/48/domain.png"></a>&nbsp;&nbsp;
