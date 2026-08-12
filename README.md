@@ -21,7 +21,7 @@
   <h3>👩‍💻 Анна Чигирева | 💻 Full-Stack Developer | 🇷🇺 Нижний Новгород</h3>
 </div>
 
-<img src="https://i.pinimg.com/originals/cc/40/3f/cc403f0ab531e2524607396d628b478a.gif" width="600" alt="dev gif" />
+<p align="center"> <img src="https://i.pinimg.com/originals/cc/40/3f/cc403f0ab531e2524607396d628b478a.gif" width="600" alt="dev gif" /> </p> <br>
 
 </div>
 
