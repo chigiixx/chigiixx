@@ -82,23 +82,6 @@
 
 ---
 
-## 💻 Избранные проекты
-
-<table>
-<tr><th>Проект</th><th>Стек</th><th>Роль & Результат</th></tr>
-<tr>
-<td>🏗️ <a href="https://itrstroy.ru"><b>itrstroy.ru</b></a></td>
-<td><code>React 19</code> <code>TS</code> <code>Node.js</code></td>
-<td>Solo-разработчик. Сайт строительной компании с нуля, SEO + Lighthouse 90+</td>
-</tr>
-<tr>
-<td>🛡️ <a href="https://github.com/chigiixx/approval-service"><b>approval-service</b></a></td>
-<td><code>Python</code> <code>FastAPI</code> <code>Docker</code></td>
-<td>Backend. Микросервис согласования документов, RBAC, трекинг статусов</td>
-</tr>
-
----
-
 ## 📊 GitHub статистика
 
 <div align="center">
