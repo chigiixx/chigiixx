@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Привет, я <a href="https://v0-chigir.vercel.app">Аня</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <h1><a href="https://v0-chigir.vercel.app">Привет</a> <img src="https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif" width="75px" align="middle"></h1>
 </div>
            
                                                ██████╗██╗  ██╗██╗ ██████╗ ██╗██████╗ 
