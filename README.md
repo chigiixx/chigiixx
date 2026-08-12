@@ -1,65 +1,113 @@
 <div align="center">
+  <h1>Привет, я <a href="https://v0-chigir.vercel.app">Аня</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer;System+Analyst;React+%C2%B7+Python+%C2%B7+TypeScript;Building+clean,+scalable+code." alt="Typing SVG" />
+```
+ ██████╗██╗  ██╗██╗ ██████╗ ██╗██████╗ 
+██╔════╝██║  ██║██║██╔════╝ ██║██╔══██╗
+██║     ███████║██║██║  ███╗██║██████╔╝
+██║     ██╔══██║██║██║   ██║██║██╔══██╗
+╚██████╗██║  ██║██║╚██████╔╝██║██║  ██║
+ ╚═════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
+```
 
-# Привет, я Анна Чигирева 👋
+<p align="center">
+  <a href="https://v0-chigir.vercel.app"><img height="30" src="https://img.icons8.com/fluency/48/domain.png"></a>&nbsp;&nbsp;
+  <a href="https://t.me/porfoliochigir"><img height="30" src="https://img.icons8.com/color/48/telegram-app.png"></a>&nbsp;&nbsp;
+  <a href="mailto:anyachigireva88@gmail.com"><img height="30" src="https://img.icons8.com/color/48/gmail-new.png"></a>&nbsp;&nbsp;
+  <a href="https://github.com/chigiixx"><img height="30" src="https://img.icons8.com/ios-glyphs/48/github.png"></a>
+</p>
 
-**Fullstack Developer** c полутора годами коммерческого опыта.  
-*Проектирую архитектуру, пишу надежный бэкенд, верстаю адаптивный фронтенд.*
+<div align="center">
+  <h3>👩‍💻 Анна Чигирева | 💻 Full-Stack Developer | 🇷🇺 Нижний Новгород</h3>
+</div>
 
----
+<h5 align="center">
+  <i>⚡️ Не доверяю проектам без README ⚡️</i>
+</h5>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-v0--chigir.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-chigir.vercel.app)
-[![Telegram](https://img.shields.io/badge/Telegram-@chigir-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/porfoliochigir)
-[![Email](https://img.shields.io/badge/Email-anyachigireva88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anyachigireva88@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer;System+Analyst;React+%C2%B7+Python+%C2%B7+TypeScript;Building+clean%2C+scalable+code." alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-## 🚀 Чем я занимаюсь прямо сейчас
+```
+┌──────────────────────────────────────────────────────────┐
+│  $ whoami                                                 │
+│  > full-stack developer, system analyst, chasing clean code│
+└──────────────────────────────────────────────────────────┘
+```
 
-- 🌐 **В продакшене:** С нуля разработала и задеплоила сайт строительной компании **[itrstroy.ru](https://itrstroy.ru)** (React 19, TS, Node.js). Оптимизация по Lighthouse: **90+**.
-- 🚧 **В разработке:** Пилю масштабную платформу для недвижимости с ролевой моделью доступа, интерактивной картой и 3D-превью объектов (React + FastAPI + PostgreSQL + Three.js).
-- 💼 **В поиске:** Открыта к предложениям.
+## 🚀 Чем занимаюсь прямо сейчас
+
+- 🌐 **В продакшене:** [itrstroy.ru](https://itrstroy.ru) — React 19 + TS + Node.js, Lighthouse 90+
+- 🚧 **В разработке:** платформа недвижимости — 3D-превью, ролевой доступ (React + FastAPI + Three.js)
+- 🎮 **Пилю игру:** кликер в Яндекс Играх — на модерации
+- 💼 **В поиске:** открыта к фрилансу и предложениям о работе
+- ✨ **[допиши сама]** — забавный факт о себе, хобби или то, что делает профиль твоим
+
+```
+[■■■■■■■■■■] В ПРОДАКШЕНЕ   itrstroy.ru
+[■■■■■■□□□□] В РАЗРАБОТКЕ   property-platform
+[■■□□□□□□□□] НА МОДЕРАЦИИ   Звёздная пыль: Кликер планет
+```
 
 ---
 
 ## 🛠️ Технологический стек
 
-> Как Fullstack, я закрываю полный цикл разработки: от проектирования таблиц в БД до деплоя на сервер.
+<div align="center">
 
-### Frontend
-⚡ React (18/19) · TypeScript · Next.js · Redux Toolkit · Tailwind CSS · HTML5/CSS3 · Three.js
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Backend
-🐍 Python (FastAPI, Django) · Node.js (Express) · C# (.NET Core) · REST API · Архитектура микросервисов
+**Backend**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-### Data & Infrastructure
-🗄️ PostgreSQL · MongoDB · Redis · Docker & Docker Compose · Ansible · Zabbix · Git · Linux (Ubuntu/Debian)
+**Data & Infra**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</div>
 
 ---
 
 ## 🎨 Дизайн & UI/UX
 
-Я не просто пишу код, но и проектирую весь пользовательский опыт сама.:
-* 📐 **Макеты & Лендинги:** Проектирую адаптивные интерфейсы, интерактивные прототипы и промо-страницы высокой точности (Pixel Perfect).
-* 💠 **Векторная графика:** Разрабатываю айдентику, уникальные иконки и минималистичные логотипы для проектов.
-* 🛠 **Инструменты:** Владею **Figma** (Auto Layouts, Компоненты/Варианты, Стили).
+```
+> проектирую не только код, но и весь пользовательский опыт
+```
+
+- 📐 Адаптивные интерфейсы и промо-страницы pixel-perfect
+- 💠 Векторная графика, айдентика, минималистичные логотипы
+- 🛠 Figma — Auto Layouts, компоненты/варианты, стили
 
 ---
 
 ## 💻 Избранные проекты
 
-| Проект | Стек технологий | Роль & Результат |
-| :--- | :--- | :--- |
-| 🏗️ **[itrstroy.ru](https://itrstroy.ru)** | `React 19` `TS` `Node.js` | **Разработчик (Solo)**. Создала сайт строительной компании с нуля. Оптимизировала SEO и производительность (Lighthouse 90+). |
-| 🛡️ **[approval-service](https://github.com/chigiixx/approval-service)** | `Python` `FastAPI` `Docker` | **Backend Developer**. Микросервис согласования документов. Реализовала ролевую маршрутизацию (RBAC) и трекинг статусов. |
-| 🏡 **property-platform** `в разработке` | `React` `FastAPI` `PostgreSQL` `Three.js` | **Fullstack Developer**. Платформа недвижимости с интерактивным просмотром 3D-моделей зданий. |
+<table>
+<tr><th>Проект</th><th>Стек</th><th>Роль & Результат</th></tr>
+<tr>
+<td>🏗️ <a href="https://itrstroy.ru"><b>itrstroy.ru</b></a></td>
+<td><code>React 19</code> <code>TS</code> <code>Node.js</code></td>
+<td>Solo-разработчик. Сайт строительной компании с нуля, SEO + Lighthouse 90+</td>
+</tr>
+<tr>
+<td>🛡️ <a href="https://github.com/chigiixx/approval-service"><b>approval-service</b></a></td>
+<td><code>Python</code> <code>FastAPI</code> <code>Docker</code></td>
+<td>Backend. Микросервис согласования документов, RBAC, трекинг статусов</td>
+</tr>
+<tr>
+<td>🏡 <b>property-platform</b> <sub>(в разработке)</sub></td>
+<td><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Three.js</code></td>
+<td>Fullstack. Платформа недвижимости с 3D-просмотром зданий</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Моя GitHub статистика
+## 📊 GitHub статистика
 
 <div align="center">
 
@@ -69,14 +117,12 @@
 
 </div>
 
-<div align="center">
+<br>
 
-</div>
+<h2 align="center">🤝 На связи</h2>
 
-</div>
+<p align="center">🎀 Открыта к предложениям, вопросам и фрилансу — пишите смело!</p>
+<p align="center">💙 Понравился профиль? Загляните в <a href="https://v0-chigir.vercel.app">портфолио</a> и <a href="https://itrstroy.ru">itrstroy.ru</a></p>
+<p align="center">Сделано с ❤️ в России</p>
 
----
-
-<div align="center">
-
-</div>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
