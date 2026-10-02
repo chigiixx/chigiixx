@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="https://v0-chigir.vercel.app">Привет</a> <img src="https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif" width="75px" align="middle"></h1>
+  <h1><a href="https://chigiixx.github.io/">Привет</a> <img src="https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif" width="75px" align="middle"></h1>
 </div>
            
                                                ██████╗██╗  ██╗██╗ ██████╗ ██╗██████╗ 
@@ -26,7 +26,6 @@
 </div>
 
 <br>
-
 ## 🚀 Чем занимаюсь прямо сейчас
 
 - 🌐 **В продакшене:** [itrstroy.ru](https://itrstroy.ru) — React 19 + TS + Node.js, Lighthouse 90+
@@ -80,6 +79,6 @@
 <h2 align="center">🤝 На связи</h2>
 
 <p align="center">🎀 Открыта к предложениям, вопросам и фрилансу — пишите смело!</p>
-<p align="center">💙 Понравился профиль? Загляните в <a href="https://v0-chigir.vercel.app">портфолио</a></p>
+<p align="center">💙 Понравился профиль? Загляните в <a href="https://chigiixx.github.io/">портфолио</a></p>
 <p align="center">Сделано с ❤️ </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100" width="100%" alt="footer wave" />
