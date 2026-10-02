@@ -11,7 +11,7 @@
            
 
 <p align="center">
-  <a href="https://v0-chigir.vercel.app"><img height="30" src="https://img.icons8.com/fluency/48/domain.png"></a>&nbsp;&nbsp;
+  <a href="https://chigiixx.github.io/"><img height="30" src="https://img.icons8.com/fluency/48/domain.png"></a>&nbsp;&nbsp;
   <a href="https://t.me/porfoliochigir"><img height="30" src="https://img.icons8.com/color/48/telegram-app.png"></a>&nbsp;&nbsp;
   <a href="mailto:anyachigireva88@gmail.com"><img height="30" src="https://img.icons8.com/color/48/gmail-new.png"></a>&nbsp;&nbsp;
   <a href="https://github.com/chigiixx"><img height="30" src="https://img.icons8.com/ios-glyphs/48/github.png"></a>
